@@ -1,2 +1,2 @@
-# flohrere.github.io/concept
+# flohrere.github.io/konzept
 demonstration version of the website
